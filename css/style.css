@@ -1,0 +1,26 @@
+.badge-font {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.small-detalhes {
+  font-size: 15px;
+}
+
+table{
+  color: #131313!important;
+}
+
+
+.flex-title-table{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 576px) {
+  .font-button-add{
+    font-size: 15px;
+  }
+}
